@@ -2,88 +2,13 @@ Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
 
 
-PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npx create-react-app .
-The directory . contains files that could conflict:
-
-  eshop commands.txt
-
-Either try using a new directory name, or remove the files listed above.
-npm notice New major version of npm available! 8.14.0 -> 9.2.0
-npm notice Changelog: https://github.com/npm/cli/releases/tag/v9.2.0
-npm notice Run npm install -g npm@9.2.0 to update!
-npm notice
-PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm install -g npm@9.2.0
-
-removed 8 packages, changed 80 packages, and audited 232 packages in 7s
-
-14 packages are looking for funding
-  run `npm fund` for details
-
-found 0 vulnerabilities
 PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npx create-react-app .  
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm start
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm install @mui/material @emotion/react @emotion/styled
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm install @mui/icons-material
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm i react-router-dom
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm install --legacy-peer-deps
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm i react-currency-format --force
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> 
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> 
 
-Creating a new React app in C:\Users\Moiz\Downloads\Projects\ReactJS\eshop.
-
-Installing packages. This might take a couple of minutes.
-Installing react, react-dom, and react-scripts with cra-template...
-
-
-added 1397 packages in 50s
-
-214 packages are looking for funding
-  run `npm fund` for details
-
-Initialized a git repository.
-
-Installing template dependencies using npm...
-
-added 71 packages in 7s
-
-226 packages are looking for funding
-  run `npm fund` for details
-Removing template package using npm...
-
-
-removed 1 package, and audited 1468 packages in 2s
-
-226 packages are looking for funding
-  run `npm fund` for details
-
-6 high severity vulnerabilities
-
-To address all issues (including breaking changes), run:
-  npm audit fix --force
-
-Run `npm audit` for details.
-
-Created git commit.
-
-Success! Created eshop at C:\Users\Moiz\Downloads\Projects\ReactJS\eshop
-Inside that directory, you can run several commands:
-
-  npm start
-    Starts the development server.
-
-  npm run build
-    Bundles the app into static files for production.
-
-    Starts the test runner.
-
-  npm run eject
-    Removes this tool and copies build dependencies, configuration files
-    and scripts into the app directory. If you do this, you can’t go back!
-
-We suggest that you begin by typing:
-
-  cd C:\Users\Moiz\Downloads\Projects\ReactJS\eshop
-Compiled successfully!
-
-You can now view eshop in the browser.
-
-  Local:            http://localhost:3000        
-  On Your Network:  http://192.168.1.41:3000     
-
-Note that the development build is not optimized.
-To create a production build, use npm run build. 
-
-webpack compiled successfully
