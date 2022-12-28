@@ -9,6 +9,13 @@ PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm install @mui/icons-materi
 PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm i react-router-dom
 PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm install --legacy-peer-deps
 PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm i react-currency-format --force
-PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> 
-PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> 
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm install firebase
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm install firebase-login
+PS C:\Users\Moiz\Downloads\Projects\ReactJS\eshop> npm install -g firebase-tools
+
+Other References:
+https://codeat21.com/react-firebase-firestore-crud-operations/
+https://firebase.google.com/docs/web/setup#available-libraries
+https://firebase.google.com/docs/firestore/quickstart
+https://firebase.google.com/docs/auth/web/start
 
